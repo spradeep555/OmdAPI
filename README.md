@@ -1,1 +1,1 @@
-# OmdAPI
+# OmdbAPI
